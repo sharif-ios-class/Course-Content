@@ -15,6 +15,8 @@ https://github.com/sharif-ios-class/Course-Content
 with a link to your project repo on Github.
 Every project should have a readme file describing the purpose of the project and your descriptions about designs, patterns and techniques that you have used.
 
+The deadline for submitting projects is 07/11/97.
+
 ## Final Exam
 
 Final exam will be like an interview for an iOS job position.
