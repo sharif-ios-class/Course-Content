@@ -17,6 +17,9 @@ Every project should have a readme file describing the purpose of the project an
 
 The deadline for submitting projects is 07/11/97.
 
+### Proposed App Ideas
+- [**SciReader**](https://github.com/septp/SciReader/blob/master/README.md): An app that tries to make reading scientific papers on iOS devices a more enjoyable experience.
+
 ## Final Exam
 
 Final exam will be like an interview for an iOS job position.
