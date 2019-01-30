@@ -4,6 +4,7 @@
 - (41%) Some short coding tasks during the semester
 - (10%) Final exam
 
+
 ## Projects
 
 please send a pull request to 
