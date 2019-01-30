@@ -17,8 +17,12 @@ Every project should have a readme file describing the purpose of the project an
 
 The deadline for submitting projects is 07/11/97.
 
+[Poems-ios](https://github.com/QotbodiniH/poems-ios): My project for the course.
+
 ### Proposed App Ideas
 - [**SciReader**](https://github.com/septp/SciReader/blob/master/README.md): An app that tries to make reading scientific papers on iOS devices a more enjoyable experience.
+
+- [**TimeOnLine**](https://github.com/AminMMZ/timeonline): an iOS app that helps you track how you spend your time
 
 ## Final Exam
 
@@ -30,7 +34,9 @@ Please see usual interview questions.
 - and many others that you can find by googling.
 
 
+
 ## Project Link
-```
+
+https://github.com/fatemeh-gerami/sync-player.git
 https://github.com/arianaraghi/ios-class
-```
+
