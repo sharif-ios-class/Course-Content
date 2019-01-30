@@ -20,6 +20,8 @@ The deadline for submitting projects is 07/11/97.
 ### Proposed App Ideas
 - [**SciReader**](https://github.com/septp/SciReader/blob/master/README.md): An app that tries to make reading scientific papers on iOS devices a more enjoyable experience.
 
+- [**TimeOnLine**](https://github.com/AminMMZ/timeonline): an iOS app that helps you track how you spend your time
+
 ## Final Exam
 
 Final exam will be like an interview for an iOS job position.
