@@ -1,30 +1,6 @@
-## Evaluation
+برنامه ای که قرار است بنویسیم، پیش بینی قیمت خانه بر اساس دوازده ویژگی است. بنابراین برنامه ی ما شامل دو بخش می شود که یک بخش مربوط به ساخت مدل یادگیری ماشین و بخش دیگر مربوط به ساخت محیط ios آن است. 
+در قسمت اول سعی کردیم با استفاده مدلی ساده یک تخمینگر بر اساس داده های مسابقه ی پیش بینی قیمت خانه در سایت kaggle بسازیم. از آنجایی که تعداد ویژگی های داده ی اصلی برابر با 53 است و ما نیز به دنبال ساخت برنامه ای هستیم که کار کردن با آن راحت تر باشد، خوب است با استفاده از روش های مختلف تعداد این ویژگی ها را تا حد امکان کم کنیم. پس از کمی بررسی روی داده ها متوجه می شویم تعدادی از ویژگی ها با هم کورلیشن بالایی دارند و بهتر است تنها یکی از آن ها را نگه داریم. برخی از ویژگی ها نیز تعداد زیادی داده ی از دست رفته دارند و خوب است آنها را نیز حذف کنیم. در ادامه بهتر است برای راحتی کار ویژگی های categorical را نیز حذف می کنیم. در انتها 12 ویژگی باقی می ماند. 
+پس از پیش پردازش داده ها مدل خطی ساده ای با استفاده از کتابخانه ی scikit-learn روی داده ها fit می کنیم و آن را به صورت یک مدل CoreML ذخیره می کنیم.
 
-- (49%) A real life iOS application at the end of semester
-- (41%) Some short coding tasks during the semester
-- (10%) Final exam
+در بخش بعدی ساختار برنامه را مشخص می کنیم. برنامه ی ما یک صفحه ی ابتدایی دارد که مخاطب را به صفحه اصلی هدایت می کند. در آن جا دوازده field به ازای هر ویژگی می سازیم تا در انتها با زدن کلید Predict قیمت خانه با توجه به مشخصات داده شده نمایش داده شود. برای ساده شدن برنامه نویسی از Extension ها، برای کلاس هایی مثل UIButton، UILabel، UIStackView و ... استفاده کردیم.
 
-## Projects
-
-please send a pull request to 
-
-```
-https://github.com/sharif-ios-class/Course-Content
-```
-
-with a link to your project repo on Github.
-Every project should have a readme file describing the purpose of the project and your descriptions about designs, patterns and techniques that you have used.
-
-The deadline for submitting projects is 07/11/97.
-
-### Proposed App Ideas
-- [**SciReader**](https://github.com/septp/SciReader/blob/master/README.md): An app that tries to make reading scientific papers on iOS devices a more enjoyable experience.
-
-## Final Exam
-
-Final exam will be like an interview for an iOS job position.
-Please see usual interview questions.
-
-- https://medium.com/@duruldalkanat/ios-interview-questions-13840247a57a (a multi part article)
-- https://github.com/onthecodepath/iOS-Interview-Questions
-- and many others that you can find by googling.
