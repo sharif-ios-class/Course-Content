@@ -4,6 +4,7 @@
 - (41%) Some short coding tasks during the semester
 - (10%) Final exam
 
+
 ## Projects
 
 please send a pull request to 
@@ -28,7 +29,6 @@ Please see usual interview questions.
 - and many others that you can find by googling.
 
 
-
 ## Project Link
 - https://github.com/farhadsorkhi/wordguess
 - https://github.com/fatemeh-gerami/sync-player.git
@@ -36,4 +36,7 @@ Please see usual interview questions.
 - [**SciReader**](https://github.com/septp/SciReader/blob/master/README.md): An app that tries to make reading scientific papers on iOS devices a more enjoyable experience.
 - [**TimeOnLine**](https://github.com/AminMMZ/timeonline): an iOS app that helps you track how you spend your time
 - [Poems-ios](https://github.com/QotbodiniH/poems-ios): My project for the course.
+- https://github.com/pantea21/Journal_app
+- https://github.com/AliN75/IOS-Project
+- https://github.com/AlirezaNasri/ExpenseManager
 
